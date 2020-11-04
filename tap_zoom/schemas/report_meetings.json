@@ -101,8 +101,8 @@
     },
     "dept": {
       "type": [
-        "null",
-        "integer"
+        "string",
+        "null"
       ]
     }
   }
